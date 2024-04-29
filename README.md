@@ -1,1 +1,11 @@
 # CS330
+## How do I approach designing software?
+Before this project, I have never used OpenGL, so the entirety of the project had been completely foreign to me beforehand. I had used c++ in some previous classes, but not to this extent.
+The design process was well laid out for us within the course layout, slowly adding different aspects of the scene one by one until we reached the final result.
+If I were to approach 3D rendering in the future, all of these methods that were used within this project can be brought over and implemented. This allows a lot of flexibility and a substantial headstart on any future projects.
+## How do I approach developing programs?
+Throughout developing this scene, I had to use a decent amount of trial and error seeing how the changes I made was effecting my scene as a whole. Alongside this, I also had to use some logic, thinking through how some of the changes made to sizes of a mesh would adjust and how the location would adjust alongside these changes.
+Development was purely involving iteration, the way we were going about this project through the course promoted this approach, giving us material to review to learn how to implement the current topic, a homework assignment practicing it, and finally implementing the topic to our final codebase.
+Throughout the course I honestly learned to keep it simple. Rather than trying to implement everything from scratch, I could make things substantially easier on myself reusing code I had already written in the assignments for the week since we were doing similar things, I just had to adjust for what I wanted it to do for the actual project.
+## How can computer science help me in reaching my goals?
+Computational graphics and visualizations gives me so much additional knowledge. It allows me to apply the knowledge I had gotten from previous courses into my code, including linear algebra. It also gives me the ability to better approach potentially making my own game in my freetime if I were to want to pursue such a project. It also allows me to bring this knowledge to future courses. While the goal of the project was to recreate an image, it was still involving c++, which I can always bring along with me in my future endevors.
